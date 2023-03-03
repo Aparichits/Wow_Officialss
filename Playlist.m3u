@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
+#EXTM3U  x-tvg-url="https://3o77.short.gy/aioepg.xml.gz"
 
 #EXTINF:-1 group-title="Wow_Officialss" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5heQZym48o0Ai1lLkiggk3alYT-uWNBi0w&usqp=CAU"  radio="true",Hungama -Hot New Bollywood
 http://103.16.47.70:7222/;
@@ -170,7 +170,6 @@ https://delta34tatasky.akamaized.net/out/i/353.mpd
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Wow_Officialss",Star Sports 1 HD
 https://delta14tatasky.akamaized.net/out/i/7136433.mpd
 
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml.gz"
 #EXTINF:0 tvg-id="142" tvg-name="BBC World News" group-title="English;News" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" catchup="vod" catchup-source="https://watchtvs.live/getm3u8/142&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",BBC World News
 https://watchtvs.live/getm3u8/142
 #EXTINF:0 tvg-id="143" tvg-name="CNBC Tv18 Prime HD" group-title="English;Business" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" catchup="vod" catchup-source="https://watchtvs.live/getm3u8/143&showtime={H}{M}{S}&srno={Y}{m}{d}&programId={catchup-id}" catchup-days="7",CNBC Tv18 Prime HD
