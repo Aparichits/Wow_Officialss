@@ -35,6 +35,9 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 http://180.178.188.152:8000/play/a063
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0c967020993b572faf6d511cc219b867.png" group-title="Wow_Officialss",Republic Bharat
 https://ottrb3.republicworld.com/httppush/ottrb_republic_hindi/chunklist_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&flixHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWPdpYWX338dYNOXJTHx8TX4gxQuNcH5vlQ&usqp=CAU" group-title="Wow_Officialss",&flixHD
+https://zee5livemedia.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/21f8857c-b7de-42b5-bd51-a219dd6d7960/1.m3u8
+
 #EXTINF:-1 group-title="Wow_Officialss" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png",SONY SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
