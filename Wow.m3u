@@ -61,3 +61,157 @@ http://146.190.166.221/madstream/starbharat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="@Wow_Officialss",Star Sports 1 Hindi HD
 http://146.190.166.221/madstream/starsportshindi/tracks-v3a1/mono.m3u8
+
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="Mixed_Iptv",Sony TV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5574
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Sony Sab FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698243
+#EXTINF:0 tvg-id="StarPlusHD.in" group-title="Mixed_Iptv",Star Plus HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672450
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Star Jalsha FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5585
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Star Vijay FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5586
+#EXTINF:0 tvg-id="Colors.in" group-title="Mixed_Iptv",Colors FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/651513
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Colors Kannada FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698247
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Colors Bangla FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/11295
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Colors Gujarati HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/690416
+#EXTINF:0 tvg-id="ZeeTVHD.in" group-title="Mixed_Iptv",Zee TV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672459
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Tamil FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698248
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Mixed_Iptv",Zee Bangla HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696445
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Punjabi IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5571
+#EXTINF:0 tvg-id="ZeeMarathi.in" group-title="Mixed_Iptv",Zee Marathi FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/4000
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Anmol IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698249
+#EXTINF:0 tvg-id="ZeeTelugu.in" group-title="Mixed_Iptv",Zee Telugu IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5593
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Alwan IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10630
+#EXTINF:0 tvg-id="SunTv.in" group-title="Mixed_Iptv",Sun TV IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3974
+#EXTINF:0 tvg-id="KtvHD.in" group-title="Mixed_Iptv",KTV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5560
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",NTV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10602
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",&TV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672296
+#EXTINF:0 tvg-id="AsianetPlus.in" group-title="Mixed_Iptv",Asianet Plus IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5576
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",ATN Bangla IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10610
+#EXTINF:0 tvg-id="Zing.in" group-title="Mixed_Iptv",Zing IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5596
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Bharati IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10624
+#EXTINF:0 tvg-id="JayaTv.in" group-title="Mixed_Iptv",Jaya TV IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5583
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="Mixed_Iptv",Jaya Plus IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5580
+#EXTINF:0 tvg-id="RajTv.in" group-title="Mixed_Iptv",Raj TV IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5552
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Mixed_Iptv",Raj Digital Plus IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5551
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Jamuna TV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10601
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",??? Sports ???
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696438
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Mixed_Iptv",Star Sports 1 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3979
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Mixed_Iptv",Star Sports 2 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/397844
+#EXTINF:0 tvg-id="StarSportsHD3.in" group-title="Mixed_Iptv",Star Sports 3 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3977
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Sony Sports Ten 1 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672325
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Sony Sports Ten 2 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672444
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Sony Sports Ten 3 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672445
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Sony Sports Ten 5 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3985
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Willow HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10631
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",??? News ???
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696439
+#EXTINF:0 tvg-id="ZeeNews.in" group-title="Mixed_Iptv",Zee News IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672455
+#EXTINF:0 tvg-id="ZeeBusiness.in" group-title="Mixed_Iptv",Zee Business IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5570
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",ABP News FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3998
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",NDTV 24x7 HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/19491
+#EXTINF:0 tvg-id="RajNews24x7.in" group-title="Mixed_Iptv",Raj News 24x7 IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5549
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Aaj Tak HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/11294
+#EXTINF:0 tvg-id="IndiaTV.in" group-title="Mixed_Iptv",India TV IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5562
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",India Today HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5561
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Independent TV IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10600
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",PTC News Punjabi HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5555
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Somoy News TV HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10605
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",??? Movies & Series ???
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696442
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Mixed_Iptv",Sony Pix HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10606
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Mixed_Iptv",Sony Max HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3990
+#EXTINF:0 tvg-id="SonyMax2.in" group-title="Mixed_Iptv",Sony Max 2 IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3989
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Mixed_Iptv",Zee Cinema FHD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/4002
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Action HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3971
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Bollywood IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5565
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zee Bangla Cinema IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5592
+#EXTINF:0 tvg-id="B4UMovies.in" group-title="Mixed_Iptv",B4U Movies IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672302
+#EXTINF:0 tvg-id="AsianetMovies.in" group-title="Mixed_Iptv",Asianet Movies IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5577
+#EXTINF:0 tvg-id="Pictures.in" group-title="Mixed_Iptv",&Pictures HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10622
+#EXTINF:0 tvg-id="JayaMovie.in" group-title="Mixed_Iptv",Jaya Movie IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5581
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",UTV Movies HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5542
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",??? Religious ???
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696440
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Aastha TV IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/11297
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",??? Music ???
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696441
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",MTV India HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5556
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="Mixed_Iptv",B4U Music IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3993
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Mixed_Iptv",Sun Music HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3975
+#EXTINF:0 tvg-id="RajMusix.in" group-title="Mixed_Iptv",Raj Musix IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5550
+#EXTINF:0 tvg-id="ext" group-title="Mixed_Iptv",Zoom HD IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5538
+#EXTINF:0 tvg-id="DhoomMusic.in" group-title="Mixed_Iptv",Dhoom Music IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10599
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="Mixed_Iptv",PTC Chakde IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5553
+#EXTINF:0 tvg-id="9XM.in" group-title="Mixed_Iptv",9XM IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/4009
+#EXTINF:0 tvg-id="9XTashan.in" group-title="Mixed_Iptv",9X Tashan IN
+http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10617
+
