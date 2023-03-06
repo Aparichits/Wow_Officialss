@@ -66,6 +66,35 @@ http://146.190.166.221/madstream/starsportshindi/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="tatasky_245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png" group-title="@Wow_Officialss",Star Gold Select 
 https://livesportsclub.me/starxlive/play.php?id=48108
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI LIFE " tvg-logo="" group-title="SunNxt",GEMINI LIFE 
+https://72n5.short.gy/GEMINI_LIFE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="" group-title="SunNxt",GEMINI COMEDY
+https://72n5.short.gy/Gemini_comedy_bjtechknowledge.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI HD " tvg-logo="" group-title="SunNxt",GEMINI HD 
+https://72n5.short.gy/Gemini_HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI MOVIES" tvg-logo="" group-title="SunNxt",GEMINI MOVIES
+https://72n5.short.gy/Gemini_Movies_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI MUSIC" tvg-logo="" group-title="SunNxt",GEMINI MUSIC
+https://72n5.short.gy/Gemini_music_bjtechknowledge.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD " tvg-logo="" group-title="SunNxt",KTV HD 
+https://72n5.short.gy/Ktv_hd-bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA" tvg-logo="" group-title="SunNxt",SUN BANGLA
+https://72n5.short.gy/Sun_bangla_bjtechknowledge.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MARATHI " tvg-logo="" group-title="SunNxt",SUN MARATHI 
+https://72n5.short.gy/SUN_MARATHI_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MUSIC" tvg-logo="" group-title="SunNxt",SUN MUSIC
+https://72n5.short.gy/SUN_MUSIC_bjtechknowledge.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN NEWS " tvg-logo="" group-title="SunNxt",SUN NEWS 
+https://72n5.short.gy/SUN_NEWS_bjtechknowledge.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD " tvg-logo="" group-title="SunNxt",SUN TV HD 
+https://72n5.short.gy/SUN_TV-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="SunNxt",SURYA MOVIES
+https://72n5.short.gy/SURYA_MOVIED-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV HD " tvg-logo="" group-title="SunNxt",SURYA TV HD 
+https://72n5.short.gy/SURYA_TV_HD_bjtechknowledge.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDYA TV HD " tvg-logo="" group-title="SunNxt",UDYA TV HD 
+https://72n5.short.gy/UDYA_HD_BJTECH.m3u8
+
 #EXTINF:0 tvg-id="SonyTVHD.in" group-title="@Wow_Officialss",Sony TV HD IN
 http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5574
 #EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Sony Sab FHD IN
