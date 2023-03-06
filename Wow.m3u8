@@ -50,5 +50,14 @@ https://delta34tatasky.akamaized.net/out/i/353.mpd
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Tata Play",Star Sports 1 HD
 https://delta14tatasky.akamaized.net/out/i/7136433.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Wow_Officialss",Hungama Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="@Wow_Officialss",Hungama Tv
 http://146.190.166.221/madstream/hungama/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="@Wow_Officialss",Star Plus HD
+http://146.190.166.221/madstream/starplus/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="@Wow_Officialss",Star Bharat HD
+http://146.190.166.221/madstream/starbharat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ts24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="@Wow_Officialss",Star Sports 1 Hindi HD
+http://146.190.166.221/madstream/starsportshindi/tracks-v3a1/mono.m3u8
