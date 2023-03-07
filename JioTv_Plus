@@ -66,190 +66,20 @@ http://146.190.166.221/madstream/starsportshindi/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="tatasky_245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png" group-title="@Wow_Officialss",Star Gold Select 
 https://livesportsclub.me/starxlive/play.php?id=48108
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_of_Zee_Keralam.jpg" group-title="@Wow_Officialss",Zee Keralam 
-https://z5ak-live.zee5.com/out/v1/9ccbe263119946e786a09eb4d26ca791/index.m3u8?hdnts=st=1678171638~exp=1678174638~acl=/out/v1/9ccbe263119946e786a09eb4d26ca791/index.m3u8*~hmac=120064d0722b10df3c806a6da1e79f8ceeb2de032895e358ef7f104ceac32bdb
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Asianet%28TVchannel%29Logo.jpg" group-title="@Wow_Officialss",Asianet HD
+https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/chunklist_b264000.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI LIFE " tvg-logo="" group-title="SunNxt",GEMINI LIFE 
-https://72n5.short.gy/GEMINI_LIFE.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="" group-title="SunNxt",GEMINI COMEDY
-https://72n5.short.gy/Gemini_comedy_bjtechknowledge.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI HD " tvg-logo="" group-title="SunNxt",GEMINI HD 
-https://72n5.short.gy/Gemini_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI MOVIES" tvg-logo="" group-title="SunNxt",GEMINI MOVIES
-https://72n5.short.gy/Gemini_Movies_bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI MUSIC" tvg-logo="" group-title="SunNxt",GEMINI MUSIC
-https://72n5.short.gy/Gemini_music_bjtechknowledge.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD " tvg-logo="" group-title="SunNxt",KTV HD 
-https://72n5.short.gy/Ktv_hd-bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN BANGLA" tvg-logo="" group-title="SunNxt",SUN BANGLA
-https://72n5.short.gy/Sun_bangla_bjtechknowledge.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MARATHI " tvg-logo="" group-title="SunNxt",SUN MARATHI 
-https://72n5.short.gy/SUN_MARATHI_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MUSIC" tvg-logo="" group-title="SunNxt",SUN MUSIC
-https://72n5.short.gy/SUN_MUSIC_bjtechknowledge.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN NEWS " tvg-logo="" group-title="SunNxt",SUN NEWS 
-https://72n5.short.gy/SUN_NEWS_bjtechknowledge.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD " tvg-logo="" group-title="SunNxt",SUN TV HD 
-https://72n5.short.gy/SUN_TV-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="SunNxt",SURYA MOVIES
-https://72n5.short.gy/SURYA_MOVIED-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV HD " tvg-logo="" group-title="SunNxt",SURYA TV HD 
-https://72n5.short.gy/SURYA_TV_HD_bjtechknowledge.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDYA TV HD " tvg-logo="" group-title="SunNxt",UDYA TV HD 
-https://72n5.short.gy/UDYA_HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png" group-title="@Wow_Officialss",Asianet Movies
+https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/chunklist_b464000.m3u8
 
-#EXTINF:0 tvg-id="SonyTVHD.in" group-title="@Wow_Officialss",Sony TV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5574
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Sony Sab FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698243
-#EXTINF:0 tvg-id="StarPlusHD.in" group-title="@Wow_Officialss",Star Plus HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672450
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Star Jalsha FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5585
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Star Vijay FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5586
-#EXTINF:0 tvg-id="Colors.in" group-title="@Wow_Officialss",Colors FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/651513
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Colors Kannada FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698247
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Colors Bangla FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/11295
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Colors Gujarati HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/690416
-#EXTINF:0 tvg-id="ZeeTVHD.in" group-title="@Wow_Officialss",Zee TV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672459
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Tamil FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698248
-#EXTINF:0 tvg-id="ZeeBangla.in" group-title="@Wow_Officialss",Zee Bangla HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696445
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Punjabi IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5571
-#EXTINF:0 tvg-id="ZeeMarathi.in" group-title="@Wow_Officialss",Zee Marathi FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/4000
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Anmol IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/698249
-#EXTINF:0 tvg-id="ZeeTelugu.in" group-title="@Wow_Officialss",Zee Telugu IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5593
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Alwan IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10630
-#EXTINF:0 tvg-id="SunTv.in" group-title="@Wow_Officialss",Sun TV IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3974
-#EXTINF:0 tvg-id="KtvHD.in" group-title="@Wow_Officialss",KTV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5560
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",NTV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10602
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",&TV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672296
-#EXTINF:0 tvg-id="AsianetPlus.in" group-title="@Wow_Officialss",Asianet Plus IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5576
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",ATN Bangla IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10610
-#EXTINF:0 tvg-id="Zing.in" group-title="@Wow_Officialss",Zing IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5596
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Bharati IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10624
-#EXTINF:0 tvg-id="JayaTv.in" group-title="@Wow_Officialss",Jaya TV IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5583
-#EXTINF:0 tvg-id="JayaPlus.in" group-title="@Wow_Officialss",Jaya Plus IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5580
-#EXTINF:0 tvg-id="RajTv.in" group-title="@Wow_Officialss",Raj TV IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5552
-#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="@Wow_Officialss",Raj Digital Plus IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5551
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Jamuna TV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10601
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",??? Sports ???
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696438
-#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="@Wow_Officialss",Star Sports 1 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3979
-#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="@Wow_Officialss",Star Sports 2 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/397844
-#EXTINF:0 tvg-id="StarSportsHD3.in" group-title="@Wow_Officialss",Star Sports 3 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3977
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Sony Sports Ten 1 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672325
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Sony Sports Ten 2 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672444
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Sony Sports Ten 3 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672445
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Sony Sports Ten 5 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3985
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Willow HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10631
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",??? News ???
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696439
-#EXTINF:0 tvg-id="ZeeNews.in" group-title="@Wow_Officialss",Zee News IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672455
-#EXTINF:0 tvg-id="ZeeBusiness.in" group-title="@Wow_Officialss",Zee Business IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5570
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",ABP News FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3998
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",NDTV 24x7 HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/19491
-#EXTINF:0 tvg-id="RajNews24x7.in" group-title="@Wow_Officialss",Raj News 24x7 IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5549
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Aaj Tak HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/11294
-#EXTINF:0 tvg-id="IndiaTV.in" group-title="@Wow_Officialss",India TV IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5562
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",India Today HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5561
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Independent TV IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10600
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",PTC News Punjabi HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5555
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Somoy News TV HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10605
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",??? Movies & Series ???
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696442
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="@Wow_Officialss",Sony Pix HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10606
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="@Wow_Officialss",Sony Max HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3990
-#EXTINF:0 tvg-id="SonyMax2.in" group-title="@Wow_Officialss",Sony Max 2 IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3989
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="@Wow_Officialss",Zee Cinema FHD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/4002
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Action HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3971
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Bollywood IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5565
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zee Bangla Cinema IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5592
-#EXTINF:0 tvg-id="B4UMovies.in" group-title="@Wow_Officialss",B4U Movies IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/672302
-#EXTINF:0 tvg-id="AsianetMovies.in" group-title="@Wow_Officialss",Asianet Movies IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5577
-#EXTINF:0 tvg-id="Pictures.in" group-title="@Wow_Officialss",&Pictures HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10622
-#EXTINF:0 tvg-id="JayaMovie.in" group-title="@Wow_Officialss",Jaya Movie IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5581
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",UTV Movies HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5542
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",??? Religious ???
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696440
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Aastha TV IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/11297
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",??? Music ???
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/696441
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",MTV India HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5556
-#EXTINF:0 tvg-id="B4UMusic.in" group-title="@Wow_Officialss",B4U Music IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3993
-#EXTINF:0 tvg-id="SunMusic.in" group-title="@Wow_Officialss",Sun Music HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/3975
-#EXTINF:0 tvg-id="RajMusix.in" group-title="@Wow_Officialss",Raj Musix IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5550
-#EXTINF:0 tvg-id="ext" group-title="@Wow_Officialss",Zoom HD IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5538
-#EXTINF:0 tvg-id="DhoomMusic.in" group-title="@Wow_Officialss",Dhoom Music IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10599
-#EXTINF:0 tvg-id="PTCChakDe.in" group-title="@Wow_Officialss",PTC Chakde IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/5553
-#EXTINF:0 tvg-id="9XM.in" group-title="@Wow_Officialss",9XM IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/4009
-#EXTINF:0 tvg-id="9XTashan.in" group-title="@Wow_Officialss",9X Tashan IN
-http://mytv.fun:80/wfjoz9uh4r/8ip50wukl8/10617
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Surya_TV_logo.png" group-title="@Wow_Officialss",Surya Tv HD
+https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/chunklist_b464000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaU_Lad3l0u4dkwvDa-RrnAATkXx53ymb_bA&usqp=CAU" group-title="@Wow_Officialss",Surya Movies
+https://yuppusacloriginvt.akamaized.net/190722/smil:suryamovies.smil/chunklist_b696000.m3u8?hdntl=exp=1678264850~acl=*~data=hdntl~hmac=82b0e5de268355d39856e503e442cc7fc7f8341760500721aee1d7bcaa3456b5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_of_Zee_Keralam.jpg" group-title="@Wow_Officialss",Zee Keralam HD
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 tvg-id="1918" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
 https://tvworld.fun/jtv/qty.php?c=Jio_Cricket_English|Referer=https://tvworld.fun/
