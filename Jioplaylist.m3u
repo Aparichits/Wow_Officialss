@@ -2028,7 +2028,7 @@ https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTM3U x-tvg-url="http://indtv.me/guide.gz"
 
 #EXTINF:-1 group-title="Info-Must-Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XgpRNdJHcdOPjaQyXt_HSYG5wI16FpAHpQ&usqp=CAU" tvg-id="",@Wow_Officials
-https://raw.githubusercontent.com/Aparichits/Wow_Officialss/main/wow.ts
+https://raw.githubusercontent.com/Aparichits/Wow_Officialss/main/wow.m3u8
 
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Hungama -Hot New Bollywood
 http://103.16.47.70:7222/;
@@ -2047,23 +2047,23 @@ http://185.80.220.12:8046/stream
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Non Stop Hindi Radio
 http://198.178.123.14:8216/;
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Mirchi Love
-https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.ts
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Club Mirchi
-https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.ts
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Mirchi Drive Radio
-https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.ts
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Pehla Nasha
-https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.ts
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",River of Calm
 https://listen.radioking.com/radio/49831/stream/86743
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Hungama-Mehfil Row
 http://103.16.47.70:9666/;
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Devraag Radio Devotional
-https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.ts
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",International Hits
-https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.ts
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",BBC Asian Network (bbci)
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.ts
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
 
 #EXTINF:-1 tvg-id="tatasky_8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="@Wow_Officials",Star Plus HD
 http://starshare.live:8080/live/679303230101/2223242526/167.ts
