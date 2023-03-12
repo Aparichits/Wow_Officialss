@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
-
+#EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports",Jio Cricket English HD 
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1918/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
@@ -1044,7 +1043,7 @@ http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/787/master.m3u8
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/958/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" group-title="News",Jantantra 
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/975/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News",Raj News 24x7 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News",Raj News 24x7 
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/767/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Kids",Sony Yay Telugu 
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/874/master.m3u8
@@ -2024,12 +2023,9 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony-Liv",SONY AATH 
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-
 #EXTM3U x-tvg-url="http://indtv.me/guide.gz"
-
 #EXTINF:-1 group-title="Info-Must-Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XgpRNdJHcdOPjaQyXt_HSYG5wI16FpAHpQ&usqp=CAU" tvg-id="",@Wow_Officials
 https://raw.githubusercontent.com/Aparichits/Wow_Officialss/main/wow.m3u8
-
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Hungama -Hot New Bollywood
 http://103.16.47.70:7222/;
 #EXTINF:-1 group-title="Info-Must-Radio" radio="true",Hungama- 90s Once Again
