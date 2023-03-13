@@ -15,61 +15,37 @@ http://185.80.220.12:8046/stream
 http://198.178.123.14:8216/;
 #EXTINF:-1 group-title="Radio" radio="true",BBC Asian Network (bbci)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
-#EXTINF:-1 tvg-id="tatasky_8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",Star Plus HD
-http://starshare.live:8080/live/679303230101/2223242526/167.ts
-#EXTINF:-1 tvg-id="tatasky_244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment",Star Bharat HD
-http://starshare.live:8080/live/679303230101/2223242526/9367.ts
-#EXTINF:-1 tvg-id="tatasky_632" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/881px-Star_Gold_2.svg.png" group-title="Movie",Star Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.ts?token=test
-#EXTINF:-1 tvg-id="tatasky_468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="Entertainment",Star Jalsha HD
-http://starshare.live:8080/live/679303230101/2223242526/198.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="Movie",Star Jalsha Movies
-http://starshare.live:8080/live/679303230101/2223242526/425.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLgDyiiUVZbr1WqeGTKjZ3wfG0Bxnf-TYEyzDESaXgug&usqp=CAU&ec=48600113" group-title="Entertainment",Star Life
-http://starshare.live:8080/live/679303230101/2223242526/19837.ts
-#EXTINF:-1 tvg-id="tatasky_957" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" group-title="Movie",Star Maa Movies
-http://starshare.live:8080/live/679303230101/2223242526/23314.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCIk5i4DyALhAFGh89gC0cy7HEJ6ojY_svQ&usqp=CAU" group-title="Music",Star Maa Music 
-http://starshare.live:8080/live/679303230101/2223242526/57772.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/StarMaaLogo.jpg" group-title="Entertainment",Star Maa Tv
-http://starshare.live:8080/live/679303230101/2223242526/168.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhSfbNxpmi4Yys7al-E9ieTH95sKgie2ZfyBDnvUWgQ&usqp=CAU&ec=48600112" group-title="Movie",Utsav Gold 
-http://starshare.live:8080/live/679303230101/2223242526/347.ts
-#EXTINF:-1 tvg-id="tatasky_142" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png" group-title="Music",UTV Bindass
-http://starshare.live:8080/live/679303230101/2223242526/7433.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5ooy9EcXj7zeNwG1tsrUDvbN0V2bMY5Dag&usqp=CAU" group-title="Movie",UTV Movies 
-http://starshare.live:8080/live/679303230101/2223242526/972.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/UTV_HD_India.png" group-title="Movie",UTV HD
-http://starshare.live:8080/live/679303230101/2223242526/1382.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1EyJz5VEjrD2KP9Z_mGh7puF9XcIReDmuA&usqp=CAU" group-title="Active",Cine Active
-http://starshare.live:8080/live/679303230101/2223242526/3745.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Active",Punjabi Active
-http://starshare.live:8080/live/679303230101/2223242526/7724.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News",Republic Bharat 
-https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png" group-title="Kids",Disney International 
-http://starshare.live:8080/live/679303230101/2223242526/20925.ts
-#EXTINF:-1 tvg-id="tatasky_144" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/2880?cb=20220126132619" group-title="Kids",Disney Junior
-http://starshare.live:8080/live/679303230101/2223242526/35713.ts
-#EXTINF:-1 tvg-id="tatasky_345" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids",Hungama Tv
-http://starshare.live:8080/live/679303230101/2223242526/18456.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d58f149e0e8753edbbb1ad18704d5204:672bceb2d8920a60c881b4ad1b54dd55
+#EXTINF:-1 tvg-id="tatasky_413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Knowledge",Nat Geo Wild HD
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f506b7e7efb1504ea2b72dfcbc9c810e:8f2e1ef36a198139d7a640a8732449fe
+#EXTINF:-1 tvg-id="tatasky_605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Knowledge",National Geographic HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27f0719986765b7eba6c470d3e94080e:279a5780cbebc490ff08282395cb944f
+#EXTINF:-1 tvg-id="tatasky_52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment",Colors HD
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcf90127045f5edabc5d94a932f5c6fe:a033ce8353a713b9dcdf93696c5b52e1
+#EXTINF:-1 tvg-id="tatasky_48" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",SONY SAB HD
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
 #EXTINF:-1 tvg-id="tatasky_469" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="Entertainment",Star Pravah HD
-http://ghostiptv.vip:80/777444/777444/45804
-#EXTINF:-1 tvg-id="tatasky_246" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
-http://ghostiptv.vip:80/777444/777444/45799
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKbBN-is3uzxz_9h476ZCimvVVwXVUis_pVYMnx6Xjw&usqp=CAU&ec=48600113" tvg-logo="http://ghostiptv.vip:80/images/4ecd6c12f5a1b188abfa2371b56b9e7b.png" group-title="Movie",Star Gold Select
-http://ghostiptv.vip:80/777444/777444/45805
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" tvg-logo="" group-title="Movie",Star Movies HD
-http://ghostiptv.vip:80/777444/777444/45808
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9ZAhv4p2ntdwrJz9uoQXSgSfGEKT-Vz27BRJTKdnnw&usqp=CAU&ec=48600113" tvg-logo="http://ghostiptv.vip:80/images/5b5fe261c6f2725e5c5969e6c84f9263.png" group-title="Sports",Star Sports 3 HD
-http://ghostiptv.vip:80/777444/777444/45797
+https://raw.githubusercontent.com/Aparichits/Wow_Officialss/main/live.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cbe293fdc385dac8c0d502b04f338e4:0624cd2e8023aec5dab4a82b2020aaf7
+#EXTINF:-1 tvg-id="tatasky_8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",Star Plus HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6513abc21aec4010b8da94e63865b003:e1340581094068ba1fc9f6a342e28514
-#EXTINF:-1 tvg-id="tatasky_551" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Entertainment",STAR Utsav
+#EXTINF:-1 tvg-id="tatasky_551" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Entertainment",Star Utsav
 https://delta31tatasky.akamaized.net/out/i/4101.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b3d4da8902f4f7cae4c774fbdf42029:f3ab3d0f2bcf4afc099342495dd58bd5
-#EXTINF:-1 tvg-id="tatasky_245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png" group-title="Movie",STAR GOLD HD
+#EXTINF:-1 tvg-id="tatasky_245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png" group-title="Movie",Star Gold HD
 https://delta10tatasky.akamaized.net/out/i/6298912.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f27d053d83d5284859cdd8b26bb17e2:7cbeb33990380306b1f5b9a0fb4f6fd0
@@ -100,6 +76,9 @@ https://delta14tatasky.akamaized.net/out/i/7136433.mpd
 #EXTINF:-1 tvg-id="tatasky_235" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 HD
 https://delta13tatasky.akamaized.net/out/i/2285199.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe2bf81630c4f55b13ce2d5de501a7e:00673790ff976ce11bd2d3701aa8479b
+#EXTINF:-1 tvg-id="tatasky_246" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
+https://delta14tatasky.akamaized.net/out/i/4779611.mpd
 #KODIPROP:inputstream.adaptive.license_key=72128b54ec9b44f4b2de808123155804:447524af6faa0e9b56d808a9f8b958db
 #EXTINF:-1 tvg-id="tatasky_463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
 https://delta43tatasky.akamaized.net/out/i/18038.mpd
