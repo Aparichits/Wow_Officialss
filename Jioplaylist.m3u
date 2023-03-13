@@ -2025,7 +2025,7 @@ https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTM3U x-tvg-url="http://indtv.me/guide.gz"
 #EXTINF:-1 group-title="Info-Update" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XgpRNdJHcdOPjaQyXt_HSYG5wI16FpAHpQ&usqp=CAU" tvg-id="",@Wow_Officials
-https://raw.githubusercontent.com/Aparichits/Wow_Officialss/main/intro.m3u8
+https://raw.githubusercontent.com/Aparichits/Wow_Officialss/main/live.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",Hungama -Hot New Bollywood
 http://103.16.47.70:7222/;
 #EXTINF:-1 group-title="Radio" radio="true",Hungama- 90s Once Again
